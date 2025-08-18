@@ -53,8 +53,3 @@ El análisis se desarrolló en varias etapas:
 **Realizado por:** Ronald J. Varela M.
 **Correo**: ronaldvarela852@gmail.com
 
-
-1. Clonar el repositorio:
-
-```bash
-git clone <URL_DEL_REPOSITORIO>
